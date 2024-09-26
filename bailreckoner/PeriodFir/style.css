@@ -1,0 +1,228 @@
+.period-FIR {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.period-FIR .div {
+  background-color: #ffffff;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.period-FIR .text-wrapper {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 491px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 58px;
+  width: 459px;
+}
+
+.period-FIR .overlap {
+  height: 90px;
+  left: 131px;
+  position: absolute;
+  top: 871px;
+  width: 1178px;
+}
+
+.period-FIR .rectangle {
+  background-color: #97edf554;
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1178px;
+}
+
+.period-FIR .text-wrapper-2 {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+  width: 535px;
+}
+
+.period-FIR .overlap-group {
+  height: 90px;
+  left: 131px;
+  position: absolute;
+  top: 748px;
+  width: 1178px;
+}
+
+.period-FIR .img {
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1178px;
+}
+
+.period-FIR .text-wrapper-3 {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  width: 535px;
+}
+
+.period-FIR .overlap-2 {
+  height: 90px;
+  left: 131px;
+  position: absolute;
+  top: 624px;
+  width: 1178px;
+}
+
+.period-FIR .overlap-3 {
+  height: 90px;
+  left: 131px;
+  position: absolute;
+  top: 501px;
+  width: 1178px;
+}
+
+.period-FIR .text-wrapper-4 {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  width: 535px;
+}
+
+.period-FIR .overlap-4 {
+  height: 90px;
+  left: 131px;
+  position: absolute;
+  top: 377px;
+  width: 1178px;
+}
+
+.period-FIR .text-wrapper-5 {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  width: 535px;
+}
+
+.period-FIR .text-wrapper-6 {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 279px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 293px;
+  width: 80px;
+}
+
+.period-FIR .rectangle-2 {
+  background-color: #d9d9d9;
+  height: 47px;
+  left: 375px;
+  position: absolute;
+  top: 287px;
+  width: 294px;
+}
+
+.period-FIR .text-wrapper-7 {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 788px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 293px;
+  width: 36px;
+}
+
+.period-FIR .rectangle-3 {
+  background-color: #d9d9d9;
+  height: 47px;
+  left: 868px;
+  position: absolute;
+  top: 287px;
+  width: 294px;
+}
+
+.period-FIR .overlap-group-2 {
+  background-color: #d9d9d9;
+  height: 80px;
+  left: 166px;
+  position: absolute;
+  top: 186px;
+  width: 1122px;
+}
+
+.period-FIR .group {
+  background-image: url(../../../static/img/image-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  left: 36px;
+  position: absolute;
+  top: 24px;
+  width: 38px;
+}
+
+.period-FIR .text-wrapper-8 {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 118px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+  width: 695px;
+}
+
+.period-FIR .image {
+  height: 42px;
+  left: 1036px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 43px;
+}

@@ -1,0 +1,162 @@
+.eligibilty {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.eligibilty .div {
+  background-color: #ffffff;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.eligibilty .overlap-group {
+  background-color: #97edf5;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 5px;
+  height: 376px;
+  left: 260px;
+  position: absolute;
+  top: 547px;
+  width: 921px;
+}
+
+.eligibilty .line {
+  height: 374px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 920px;
+}
+
+.eligibilty .img {
+  height: 374px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 918px;
+}
+
+.eligibilty .text-wrapper {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 307px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 292px;
+  white-space: nowrap;
+  width: 304px;
+}
+
+.eligibilty .text-wrapper-2 {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 491px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 58px;
+  width: 459px;
+}
+
+.eligibilty .overlap {
+  height: 49px;
+  left: 87px;
+  position: absolute;
+  top: 188px;
+  width: 463px;
+}
+
+.eligibilty .text-wrapper-3 {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  width: 202px;
+}
+
+.eligibilty .rectangle {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 183px;
+  position: absolute;
+  top: 0;
+  width: 280px;
+}
+
+.eligibilty .text-wrapper-4 {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 777px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 189px;
+  width: 243px;
+}
+
+.eligibilty .rectangle-2 {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 1049px;
+  position: absolute;
+  top: 188px;
+  width: 280px;
+}
+
+.eligibilty .overlap-2 {
+  background-color: #97edf5;
+  background-image: url(../../../static/img/line-20.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 153px;
+  left: 159px;
+  position: absolute;
+  top: 332px;
+  width: 1123px;
+}
+
+.eligibilty .line-2 {
+  height: 153px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1123px;
+}
+
+.eligibilty .text-wrapper-5 {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 502px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 98px;
+  white-space: nowrap;
+  width: 120px;
+}

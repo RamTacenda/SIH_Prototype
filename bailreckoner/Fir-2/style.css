@@ -1,0 +1,245 @@
+.FIR {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.FIR .div {
+  background-color: #ffffff;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.FIR .text-wrapper {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 479px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 48px;
+  width: 482px;
+}
+
+.FIR .overlap {
+  background-color: #d9d9d9;
+  height: 77px;
+  left: 373px;
+  position: absolute;
+  top: 505px;
+  width: 324px;
+}
+
+.FIR .rectangle {
+  background-color: #d9d9d9;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 324px;
+}
+
+.FIR .text-wrapper-2 {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 24px;
+  white-space: nowrap;
+  width: 269px;
+}
+
+.FIR .overlap-group {
+  background-color: #d9d9d9;
+  height: 77px;
+  left: 373px;
+  position: absolute;
+  top: 806px;
+  width: 324px;
+}
+
+.FIR .overlap-group-2 {
+  background-color: #d9d9d9;
+  height: 77px;
+  left: 744px;
+  position: absolute;
+  top: 505px;
+  width: 324px;
+}
+
+.FIR .rectangle-2 {
+  background-color: #97edf5;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 324px;
+}
+
+.FIR .text-wrapper-3 {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+  width: 269px;
+}
+
+.FIR .overlap-2 {
+  background-color: #d9d9d9;
+  height: 77px;
+  left: 744px;
+  position: absolute;
+  top: 806px;
+  width: 324px;
+}
+
+.FIR .text-wrapper-4 {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 195px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 166px;
+  width: 465px;
+}
+
+.FIR .navbar {
+  height: 47px;
+  left: 187px;
+  position: absolute;
+  top: 297px;
+  width: 202px;
+}
+
+.FIR .text-wrapper-5 {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 202px;
+}
+
+.FIR .text-wrapper-6 {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 187px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 384px;
+  width: 360px;
+}
+
+.FIR .overlap-3 {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 551px;
+  position: absolute;
+  top: 296px;
+  width: 702px;
+}
+
+.FIR .rectangle-3 {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 702px;
+}
+
+.FIR .rectangle-4 {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 551px;
+  position: absolute;
+  top: 385px;
+  width: 702px;
+}
+
+.FIR .text-wrapper-7 {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 187px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 657px;
+  width: 277px;
+}
+
+.FIR .rectangle-5 {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 610px;
+  position: absolute;
+  top: 657px;
+  width: 174px;
+}
+
+.FIR .rectangle-6 {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 894px;
+  position: absolute;
+  top: 657px;
+  width: 174px;
+}
+
+.FIR .text-wrapper-8 {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 36px;
+  font-weight: 300;
+  left: 506px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 656px;
+  width: 91px;
+}
+
+.FIR .text-wrapper-9 {
+  color: #000000;
+  font-family: "JetBrains Mono", Helvetica;
+  font-size: 36px;
+  font-weight: 300;
+  left: 832px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 656px;
+  width: 51px;
+}
