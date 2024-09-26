@@ -1,0 +1,266 @@
+.approve-BAIL {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.approve-BAIL .div {
+  background-color: #ffffff;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.approve-BAIL .text-wrapper {
+  color: #000000;
+  font-family: "JetBrains Mono-Bold", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 257px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 82px;
+  width: 707px;
+}
+
+.approve-BAIL .text-wrapper-2 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 185px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 325px;
+  width: 202px;
+}
+
+.approve-BAIL .text-wrapper-3 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 185px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 236px;
+  width: 202px;
+}
+
+.approve-BAIL .text-wrapper-4 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 185px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 412px;
+  width: 360px;
+}
+
+.approve-BAIL .rectangle {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 549px;
+  position: absolute;
+  top: 324px;
+  width: 702px;
+}
+
+.approve-BAIL .rectangle-2 {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 549px;
+  position: absolute;
+  top: 235px;
+  width: 702px;
+}
+
+.approve-BAIL .rectangle-3 {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 549px;
+  position: absolute;
+  top: 413px;
+  width: 702px;
+}
+
+.approve-BAIL .text-wrapper-5 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 185px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 501px;
+  width: 360px;
+}
+
+.approve-BAIL .rectangle-4 {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 549px;
+  position: absolute;
+  top: 502px;
+  width: 702px;
+}
+
+.approve-BAIL .overlap-group {
+  height: 59px;
+  left: 819px;
+  position: absolute;
+  top: 911px;
+  width: 199px;
+}
+
+.approve-BAIL .rectangle-5 {
+  background-color: #97edf5;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 199px;
+}
+
+.approve-BAIL .text-wrapper-6 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 148px;
+}
+
+.approve-BAIL .overlap {
+  height: 59px;
+  left: 1014px;
+  position: absolute;
+  top: 93px;
+  width: 357px;
+}
+
+.approve-BAIL .rectangle-6 {
+  background-color: #97edf5;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 227px;
+}
+
+.approve-BAIL .text-wrapper-7 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 54px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+  width: 303px;
+}
+
+.approve-BAIL .overlap-2 {
+  height: 59px;
+  left: 361px;
+  position: absolute;
+  top: 911px;
+  width: 199px;
+}
+
+.approve-BAIL .text-wrapper-8 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+  width: 148px;
+}
+
+.approve-BAIL .overlap-3 {
+  height: 59px;
+  left: 1048px;
+  position: absolute;
+  top: 911px;
+  width: 205px;
+}
+
+.approve-BAIL .text-wrapper-9 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+  width: 148px;
+}
+
+.approve-BAIL .text-wrapper-10 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 189px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 590px;
+  width: 360px;
+}
+
+.approve-BAIL .rectangle-7 {
+  background-color: #d9d9d9;
+  height: 249px;
+  left: 553px;
+  position: absolute;
+  top: 591px;
+  width: 700px;
+}
+
+.approve-BAIL .overlap-4 {
+  height: 59px;
+  left: 590px;
+  position: absolute;
+  top: 911px;
+  width: 199px;
+}
+
+.approve-BAIL .text-wrapper-11 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+  width: 148px;
+}

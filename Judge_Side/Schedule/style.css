@@ -1,0 +1,191 @@
+.schedule {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.schedule .div {
+  background-color: #ffffff;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.schedule .text-wrapper {
+  color: #000000;
+  font-family: "JetBrains Mono-Bold", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 368px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 79px;
+  width: 707px;
+}
+
+.schedule .text-wrapper-2 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 185px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 275px;
+  width: 202px;
+}
+
+.schedule .text-wrapper-3 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 185px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 186px;
+  width: 202px;
+}
+
+.schedule .text-wrapper-4 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 185px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 362px;
+  width: 360px;
+}
+
+.schedule .rectangle {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 549px;
+  position: absolute;
+  top: 274px;
+  width: 702px;
+}
+
+.schedule .rectangle-2 {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 549px;
+  position: absolute;
+  top: 185px;
+  width: 702px;
+}
+
+.schedule .rectangle-3 {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 549px;
+  position: absolute;
+  top: 363px;
+  width: 702px;
+}
+
+.schedule .text-wrapper-5 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 185px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 451px;
+  width: 360px;
+}
+
+.schedule .rectangle-4 {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 549px;
+  position: absolute;
+  top: 452px;
+  width: 702px;
+}
+
+.schedule .text-wrapper-6 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 189px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 829px;
+  width: 360px;
+}
+
+.schedule .rectangle-5 {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 553px;
+  position: absolute;
+  top: 830px;
+  width: 702px;
+}
+
+.schedule .text-wrapper-7 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 189px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 540px;
+  width: 360px;
+}
+
+.schedule .rectangle-6 {
+  background-color: #d9d9d9;
+  height: 249px;
+  left: 553px;
+  position: absolute;
+  top: 541px;
+  width: 700px;
+}
+
+.schedule .overlap-group {
+  height: 59px;
+  left: 622px;
+  position: absolute;
+  top: 919px;
+  width: 199px;
+}
+
+.schedule .rectangle-7 {
+  background-color: #97edf5;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 199px;
+}
+
+.schedule .text-wrapper-8 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+  width: 148px;
+}

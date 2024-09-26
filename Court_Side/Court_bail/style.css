@@ -1,0 +1,193 @@
+.COURT-BAIL {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.COURT-BAIL .div {
+  background-color: #ffffff;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.COURT-BAIL .text-wrapper {
+  color: #000000;
+  font-family: "JetBrains Mono-Bold", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 369px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 62px;
+  width: 707px;
+}
+
+.COURT-BAIL .text-wrapper-2 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 187px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 347px;
+  width: 202px;
+}
+
+.COURT-BAIL .text-wrapper-3 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 187px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 258px;
+  width: 202px;
+}
+
+.COURT-BAIL .text-wrapper-4 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 187px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 434px;
+  width: 360px;
+}
+
+.COURT-BAIL .rectangle {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 551px;
+  position: absolute;
+  top: 346px;
+  width: 702px;
+}
+
+.COURT-BAIL .rectangle-2 {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 551px;
+  position: absolute;
+  top: 257px;
+  width: 702px;
+}
+
+.COURT-BAIL .rectangle-3 {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 551px;
+  position: absolute;
+  top: 435px;
+  width: 702px;
+}
+
+.COURT-BAIL .text-wrapper-5 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 187px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 523px;
+  width: 360px;
+}
+
+.COURT-BAIL .text-wrapper-6 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 187px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 612px;
+  width: 360px;
+}
+
+.COURT-BAIL .rectangle-4 {
+  background-color: #d9d9d9;
+  height: 49px;
+  left: 551px;
+  position: absolute;
+  top: 524px;
+  width: 702px;
+}
+
+.COURT-BAIL .rectangle-5 {
+  background-color: #d9d9d9;
+  height: 133px;
+  left: 551px;
+  position: absolute;
+  top: 613px;
+  width: 700px;
+}
+
+.COURT-BAIL .overlap-group {
+  background-color: #97edf5;
+  height: 59px;
+  left: 831px;
+  position: absolute;
+  top: 852px;
+  width: 199px;
+}
+
+.COURT-BAIL .rectangle-6 {
+  background-color: #97edf5;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 199px;
+}
+
+.COURT-BAIL .text-wrapper-7 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 148px;
+}
+
+.COURT-BAIL .overlap {
+  background-color: #97edf5;
+  height: 59px;
+  left: 1052px;
+  position: absolute;
+  top: 852px;
+  width: 199px;
+}
+
+.COURT-BAIL .text-wrapper-8 {
+  color: #000000;
+  font-family: "JetBrains Mono-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 148px;
+}
